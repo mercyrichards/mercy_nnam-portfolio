@@ -142,13 +142,13 @@ ul.mobile-dropdown li:nth-child(4) a {
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
-    background-color: rgba(1, 10, 70, 0.5);
+    height: 100%;background-color: rgba(35, 10, 132, 0);
 }
+
 
 /*Hero main heading*/
 .hero h1 {
-    color: rgba(35, 10, 132, 0);
+    color: blue;
     z-index: 3;
     text-align: center;
     font-size: 2.5rem;
@@ -156,7 +156,7 @@ ul.mobile-dropdown li:nth-child(4) a {
 /*Hero description paragraph*/
 .hero p {
     z-index: 3;
-    color: rgba(35, 10, 132, 0);
+    color: blue;
     font-size: 1.2rem;
     text-align: center;
     width: 90%;
