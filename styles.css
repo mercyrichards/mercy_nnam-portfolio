@@ -346,6 +346,21 @@ ul.mobile-dropdown li:nth-child(4) a {
     width: 90%;
 }
 
+.project-samples article img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.project-samples article {
+    transition: transform 0.3s ease;
+}
+
+.project-samples article:hover img {
+    transform: translateY(-5px);
+}
+
 .project-samples {
     width: 90%;
     max-width: 1280px;
