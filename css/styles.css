@@ -136,7 +136,7 @@ ul.mobile-dropdown li:nth-child(4) a {
 /*hero/banner section*/
 .hero {
     min-height: calc(100vh - 6.5rem);
-    background: url(/mercy-working.jpeg);
+    background: url(../images/mercy-working.jpeg);
     position: relative;
     display: flex;
     flex-direction: column;

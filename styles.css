@@ -345,7 +345,7 @@ ul.mobile-dropdown li:nth-child(4) a {
     transition: transform 0.3s ease;
 }
 
-.project-samples article:hover {
+.project-samples article:hover{
     transform: translateY(-5px);
 }
 
